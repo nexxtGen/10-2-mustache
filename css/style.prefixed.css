@@ -1,6 +1,10 @@
 body { background-color: lightskyblue; margin: 0 auto; }
 
-.container { max-width: 1200px; margin: 0 auto; color: white; padding: 40px; font-size: 30px; text-align: center; }
+.container { max-width: 1200px; margin: 60px auto; color: white; padding: 0 40px; font-size: 30px; text-align: center; background-color: rgba(0, 0, 0, 0.5); }
+
+.container p { font-size: 15px; margin: 5px auto; padding: 15px; }
+
+.container h6 { margin: 5px auto; }
 
 .carousel-cell { width: 100%; /* full width */ min-height: 250px; height: 50vh; /* height of carousel */ background-size: cover; }
 

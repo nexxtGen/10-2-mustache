@@ -4,11 +4,20 @@ body {
 }
 .container {
     max-width: 1200px;
-    margin: 0 auto;  
+    margin: 60px auto;  
     color: white;
-    padding: 40px;  
+    padding: 0 40px;  
     font-size: 30px;
-    text-align: center;  
+    text-align: center;      
+    background-color: rgba($color: #000000, $alpha: 0.5);    
+    p {        
+        font-size: 15px;
+        margin: 5px auto;
+        padding: 15px;
+    }
+    h6 {
+        margin: 5px auto;
+    }
 }
 .carousel-cell {
     width: 100%; /* full width */
