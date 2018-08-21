@@ -18,7 +18,7 @@ window.initMap = function() {
   // for var map add new instance object map
   var map = new google.maps.Map(document.getElementById('map'), {
     // Map options
-    zoom: 4,
+    zoom: 11,
     center: firstCell
   });  
   // Create markers
