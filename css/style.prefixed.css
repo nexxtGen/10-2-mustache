@@ -19,3 +19,5 @@ button i { color: white; font-size: 15px; }
 button:hover, button:active { color: white; background-color: #4c5df5; }
 
 .btn-start { font-size: 12px; width: 55px; height: 55px; border-radius: 50%; position: absolute; right: 1vw; z-index: 1; }
+
+#map { min-height: 250px; height: 50vh; width: 100%; /* The width is the width of the web page */ }
